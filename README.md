@@ -23,7 +23,7 @@ When I’m not coding, you can find me exploring new places, writing, or working
 
 <p align="center">
   <p align="center">
-  <img src="[https://skillicons.dev/icons](https://skillicons.dev/icons)?i=java,spring,vue,js,ts,react,nodejs,postgres,git,nest,mongodb,tailwind") />
+  <img src="[https://skillicons.dev/icons](https://skillicons.dev/icons)?i="java,spring,vue,js,ts,react,nodejs,postgres,git,nest,mongodb,tailwind") />
 </p>
 </p>
 
